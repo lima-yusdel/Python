@@ -1,0 +1,5 @@
+READ ME
+
+To run these algoritms you have to change the paths to the respective files for the data.
+
+Thank you
